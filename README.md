@@ -111,3 +111,5 @@ The calibration values, PID coefficients, servo limits, and control direction ar
 If the servo reacts in the wrong direction, change the direction using `DIR1` or `DIR-1`.
 
 If the balanced neutral point is not correct, adjust the servo center using `M0`, for example `M090`.
+
+This repository was imported from my previous GitHub account as part of organizing my projects in one place.
